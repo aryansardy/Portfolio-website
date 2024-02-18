@@ -1,0 +1,38 @@
+.main_img{
+    border-radius: 400px;
+    height: 300px;
+    margin :20px ;
+    margin-left: 50px;
+}
+body{
+    background-color: #137a63;
+}
+.intro_container{
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    background-color: #137a63;
+    width: 500px;
+
+}
+.heading_container{
+    display: flex;
+    align-items: center;
+}
+.navbar {
+    background-color: #137a63;
+}
+#blinking_heading{
+    font-size: 25px;
+    color: #92ddc8
+}
+
+.social_logos{
+    height: 40px;
+    margin: 20px;
+    
+
+}
+.social_container{
+    display: flex;
+    justify-content: center;
+}
